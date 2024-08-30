@@ -1,4 +1,4 @@
 # niraj-project
 My projects 
 <br>
-Author - Niraj Gupta
+Author - Niraj Gupta (NG)
